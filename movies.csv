@@ -1,0 +1,122 @@
+Movie,USGross($),Budget($),Stars,Rating,Genre,Run Time (minutes)
+White Noise,56.09436,30,2,PG-13,Horror,101
+Coach Carter,67.264877,45,3,PG-13,Drama,136
+Elektra,24.409722,65,2,PG-13,Action,100
+Racing Stripes,49.772522,30,3,PG,Comedy,110
+Assault on Precinct 13,20.040895,30,3,R,Action,109
+Are We There Yet?,82.674398,20,2,PG,Comedy,94
+Alone in the Dark,5.178569,20,1.5,R,Horror,96
+Indigo,51.100486,25,3.5,R,Drama,105
+Boogeyman,46.752382,20,2,PG-13,Horror,88
+The Wedding Date,31.726995,40,2.5,PG-13,Comedy,90
+Hitch,177.78426,55,3,PG-13,Comedy,113
+Pooh's Heffalump Movie,18.081626,20,3.5,G,Adventure,68
+Because of Winn-Dixie,32.647042,15,3,PG,Comedy,106
+Constantine,75.976178,75,3,R,Action,122
+Son of the Mask,17.018422,100,2,PG,Comedy,86
+Cursed,19.294901,35,2,PG-13,Horror,105
+Man of the House,19.699706,50,2.5,PG-13,Comedy,100
+Be Cool,55.849401,75,2.5,PG-13,Comedy,150
+The Jacket,6.301131,28.5,1.5,R,Thriller,103
+The Pacifier,113.00688,56,2,PG,Comedy,97
+Hostage,34.636443,75,2.5,R,Action,108
+Robots,128.20001,80,3.5,PG,Adventure,89
+The Upside of Anger ‡,18.761993,12,3.5,R,Drama,117
+Ice Princess,24.381334,25,2.5,G,Comedy,99
+The Ring Two,75.941727,50,2.5,PG-13,Horror,111
+Miss Congeniality 2: Armed and Fabulous,48.478006,60,2,PG-13,Comedy,115
+Guess Who,68.915888,35,3,PG-13,Comedy,103
+Beauty Shop,36.35135,25,3,PG-13,Comedy,105
+Sin City,74.098862,40,4,R,Action,126
+Fever Pitch,42.071069,40,3.5,PG-13,Comedy,103
+Kung Fu Hustle ‡,17.104669,20,3.5,R,Action,99
+Sahara,68.671925,130,3,PG-13,Adventure,123
+The Amityville Horror,64.538396,18.5,2.5,R,Horror,89
+The Interpreter,72.708161,90,3.5,PG-13,Thriller,118
+King's Ransom,4.008527,25,1.5,PG-13,Comedy,98
+A Lot Like Love,21.835784,25,2.5,PG-13,Comedy,107
+The Hitchhiker's Guide to the Galaxy,51.019112,45,3.5,PG,Comedy,103
+XXX: State of the Union,26.873932,60,1.5,PG-13,Action,100
+Crash,54.557348,6.5,3.5,R,Drama,107
+House of Wax,32.0648,35,2.5,R,Horror,113
+Kingdom of Heaven,47.398413,110,3.5,R,Adventure,144
+Kicking and Screaming,52.842724,45,2.5,PG,Comedy,90
+Mindhunters,4.476235,27,2,R,Thriller,106
+Monster-in-Law,82.931301,45,2,PG-13,Comedy,95
+Star Wars Episode III: Revenge of the Sith,380.27058,115,4,PG-13,Adventure,140
+The Longest Yard,158.11946,82,2.5,PG-13,Comedy,113
+Madagascar,193.20293,75,3,PG,Adventure,86
+The Sisterhood of the Traveling Pants,39.053061,25,3.5,PG,Drama,145
+Cinderella Man,61.649308,88,4,PG-13,Drama,144
+Lords of Dogtown,11.273517,25,3,PG-13,Action,107
+Batman Begins,205.34377,150,4,PG-13,Action,140
+The Perfect Man,16.535005,10,1.5,PG,Comedy,101
+Herbie: Fully Loaded,66.010682,50,3,G,Comedy,95
+Bewitched,63.313159,80,2,PG-13,Comedy,100
+Land of the Dead,20.700082,15,3.5,R,Horror,97
+War of the Worlds,234.28035,132,4,PG-13,Action,116
+Rebound,16.809014,45,2,PG,Comedy,103
+Dark Water,25.473093,60,3.5,PG-13,Thriller,105
+Fantastic Four,154.69557,87.5,2,PG-13,Action,123
+Charlie and the Chocolate Factory,206.45908,150,4,PG,Comedy,115
+Wedding Crashers,209.21837,40,3.5,R,Comedy,113
+Bad News Bears,32.868349,35,3.5,PG-13,Comedy,113
+Hustle & Flow,22.202809,2.8,3.5,R,Drama,115
+The Island,35.818913,120,2.5,PG-13,Action,136
+Must Love Dogs,43.894863,35,3,PG-13,Comedy,98
+Sky High,63.939454,60,3,PG,Adventure,102
+Stealth,32.116746,138,2.5,PG-13,Action,121
+Deuce Bigalow: European Gigolo,22.400154,22,1.5,R,Comedy,83
+Four Brothers,74.494381,30,2.5,R,Drama,109
+The Skeleton Key,47.907715,40,3,PG-13,Horror,104
+The Great Raid,10.166502,20,2.5,R,Action,133
+The 40-Year-Old Virgin,109.44924,26,4,R,Comedy,111
+Valiant,19.471912,35,2.5,G,Adventure,76
+The Brothers Grimm,37.899638,80,2.5,PG-13,Adventure,119
+The Cave,15.007991,30,2,PG-13,Horror,97
+Undiscovered,74.888996,27,2,PG-13,Comedy,97
+The Constant Gardener,33.579798,25.5,4,R,Drama,129
+Transporter 2,43.095856,32,3,PG-13,Action,87
+The Exorcism of Emily Rose,75.072454,18,3,PG-13,Horror,114
+The Man,8.33072,20,2,PG-13,Comedy,83
+An Unfinished Life ‡,8.535575,30,2.5,PG-13,Drama,108
+Corpse Bride ‡,53.359111,30,4,PG,Adventure,77
+Cry Wolf,10.047674,1,2.5,PG-13,Thriller,91
+Just Like Heaven,48.31813,58,2.5,PG-13,Comedy,95
+Lord of War,24.149632,42,3,R,Action,121
+Flightplan,89.706988,55,2.5,PG-13,Action,93
+A History of Violence ‡,31.493782,32,4,R,Drama,96
+Roll Bounce,17.380866,10,3,PG-13,Comedy,106
+Capote ‡,28.75053,7,4.5,R,Drama,114
+Into the Blue,18.782227,50,2,PG-13,Adventure,109
+Serenity,25.514517,39,4,PG-13,Action,119
+Wallace & Gromit: The Curse of the Were-Rabbit,56.068547,30,4,G,Adventure,85
+Waiting...,16.124543,1.125,2,R,Comedy,93
+Domino,10.169202,50,2,R,Action,133
+Elizabethtown,26.850426,54,2.5,PG-13,Drama,133
+The Fog,29.511112,18,2,PG-13,Horror,101
+Doom,28.212337,70,2,R,Horror,113
+North Country,18.324242,30,4,R,Drama,123
+The Weather Man,12.482775,20,3,R,Drama,101
+Chicken Little,135.38666,60,3,G,Adventure,80
+Jarhead,62.64754,72,3,R,Drama,115
+"Good Night, and Good Luck ‡",31.501218,7,4,PG,Drama,93
+Get Rich or Die Tryin',30.98185,40,2.5,R,Drama,116
+Pride and Prejudice ‡,38.372662,28,4,PG,Drama,129
+Harry Potter and the Goblet of Fire,290.01304,150,4,PG-13,Drama,157
+Walk the Line,119.5194,28,4,PG-13,Drama,81
+Syriana ‡,50.82462,50,4,R,Drama,126
+"Yours, Mine and Ours",53.359917,45,2.5,PG,Comedy,90
+The Libertine ‡,4.835065,22,3,R,Drama,130
+Æon Flux,25.857987,55,2.5,PG-13,Action,95
+Transamerica ‡,9.015303,1,3.5,R,Drama,104
+Brokeback Mountain ‡,83.043761,13.9,4.5,R,Drama,134
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",291.71096,180,4,PG,Adventure,140
+Memoirs of a Geisha ‡,57.010853,85,2.5,PG-13,Drama,145
+King Kong,52.614445,23,4,PG-13,Drama,187
+The Family Stone,60.062868,18,3,PG-13,Comedy,103
+Hoodwinked ‡,51.224985,17.5,2.5,PG,Comedy,80
+Munich ‡,47.37909,75,4,R,Drama,164
+The New World ‡,12.712093,30,4,PG-13,Adventure,135
+The Matador ‡,16.186348,1.1,3.5,R,Thriller,97
+Note:  The ‡ denotes a limited release that was then released on a large scale,•,•,,,,
