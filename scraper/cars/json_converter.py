@@ -12,7 +12,7 @@ with open('data.csv', 'w') as f:
 		results = []
 		for k in keys:
 			if k in data[car]:
-				results.append(data[car][k].encode('utf8'))
+				results.append(data[car][k].encode('utf8').replace(',', ';'))
 			else:
 				results.append('NA')
 		f.write(','.join(results) + '\n')
